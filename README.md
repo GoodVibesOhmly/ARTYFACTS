@@ -1,4 +1,4 @@
-## Asset Backed ERC721 + Stake your ERC721 NFTs and issue ERC20 Tokens as Rewards
+## Asset Backed ERC721 + Stake NFTs + issue ERC20 Tokens as Rewards
 
 Inspired by [Dan Matuszewski's tweet](https://twitter.com/cmsholdings/status/1422693860036206592) asking the tough question, what really is an NFT floor?
 
