@@ -2,8 +2,8 @@
 
 pragma solidity 0.8.9;
 
-import ".../ArtyfactsRewards.sol";
-import ".../Collection.sol";
+import "https://github.com/GoodVibesOhmly/ARTYFACTS/blob/16c23d04d967b5cc4642d0fa3f0acb2295abcd79/contracts/ArtyfactsRewards.sol";
+import "https://github.com/GoodVibesOhmly/ARTYFACTS/blob/16c23d04d967b5cc4642d0fa3f0acb2295abcd79/contracts/collection.sol";
 
 contract NFTStaking is Ownable, IERC721Receiver {
 
